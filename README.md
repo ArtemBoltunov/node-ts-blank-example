@@ -13,7 +13,7 @@ npm init
 
 Setup typescript packages:
 ```
-npm install --save-dev typescript ts-node @types/node 
+npm install --save-dev typescript ts-node core-js @types/node
 ```
 
 Configure typescript:
